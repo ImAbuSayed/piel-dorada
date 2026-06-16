@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel dorada
+
+This log tracks the cryptographic history and versioning for the song **Piel dorada** (piel-dorada).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T22:09:13.768637 | `v1` | `ff54dbb36d5aaa041a417a771caebd0317d1bd07dbb06a8f2073b6c1e7357b47` | `71a6594a1bd239eeb2c2810b6748185c21c929ef0246e2abea1bf0f90daf0305` | `2026-06-16_piel-dorada-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-dorada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Piel dorada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-dorada/) |
+| **Get License** | [Commercial Licensing for Piel dorada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-dorada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ff54dbb36d5aaa041a417a771caebd0317d1bd07dbb06a8f2073b6c1e7357b47` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
